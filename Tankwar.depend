@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1508677070 source:/home/ve/桌面/Cpp project/Tankwar/main.cpp
+	"console/console.h"
+	<list>
+	"dataSet.cpp"
+	"mainActivity.cpp"
+
+1508651828 /home/ve/桌面/Cpp project/Tankwar/console/console.h
+	<vector>
+	<memory>
+	<functional>
+	<termios.h>
+	<sys/ioctl.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	"vstring.hpp"
+	"vfile.hpp"
+	"vtime.hpp"
+	"vplatform.hpp"
+	"shape.hpp"
+	"drawable.h"
+	"color.h"
+	"view.h"
+	"activity.h"
+
+1508557036 /home/ve/桌面/Cpp project/Tankwar/console/vstring.hpp
+	"varray.hpp"
+	<stdio.h>
+	<string.h>
+	<memory>
+	<stdarg.h>
+	"vplatform.hpp"
+
+1508557036 /home/ve/桌面/Cpp project/Tankwar/console/varray.hpp
+	<memory>
+
+1508557035 /home/ve/桌面/Cpp project/Tankwar/console/vplatform.hpp
+
+1508557035 /home/ve/桌面/Cpp project/Tankwar/console/vfile.hpp
+	<stdarg.h>
+	<unistd.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"vplatform.hpp"
+	"vstring.hpp"
+
+1508557036 /home/ve/桌面/Cpp project/Tankwar/console/vtime.hpp
+	<memory>
+	<stdlib.h>
+	"vstring.hpp"
+
+1508673013 /home/ve/桌面/Cpp project/Tankwar/console/drawable.h
+
+1508557035 /home/ve/桌面/Cpp project/Tankwar/console/color.h
+
+1508649423 /home/ve/桌面/Cpp project/Tankwar/console/view.h
+
+1508651357 /home/ve/桌面/Cpp project/Tankwar/console/activity.h
+
+1508559426 source:/home/ve/桌面/Cpp project/Tankwar/map.cpp
+
+1508569887 /home/ve/桌面/Cpp project/Tankwar/game.cpp
+
+1508519651 /home/ve/桌面/Cpp project/Tankwar/map.cpp
+
+1508521627 /home/ve/桌面/Cpp project/Tankwar/tank.cpp
+
+1508519378 /home/ve/桌面/Cpp project/Tankwar/object.cpp
+
+1508521415 /home/ve/桌面/Cpp project/Tankwar/tankManager.cpp
+
+1508681317 /home/ve/桌面/Cpp project/Tankwar/thing.cpp
+
+1508521412 source:/home/ve/桌面/Cpp project/Tankwar/game.cpp
+
+1508521627 source:/home/ve/桌面/Cpp project/Tankwar/tank.cpp
+
+1508557036 /home/ve/桌面/Cpp project/Tankwar/console/shape.hpp
+
+1508681136 /home/ve/桌面/Cpp project/Tankwar/mainActivity.cpp
+	"manager.cpp"
+	"thing.cpp"
+
+1508681905 /home/ve/桌面/Cpp project/Tankwar/manager.cpp
+
+1508572260 /home/ve/桌面/Cpp project/Tankwar/dataSet.cpp
+
